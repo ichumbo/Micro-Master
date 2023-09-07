@@ -1,10 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/micro)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/micro?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/micro?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/_9oK9CKuaeI?style=social)](https://youtu.be/_9oK9CKuaeI)
 
   <br />
   <br />
