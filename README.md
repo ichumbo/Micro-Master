@@ -5,47 +5,25 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Micro - Podcast website</h2>
+  <h2 align="center">Micro - Site de podcast</h2>
 
-  Micro is a fully responsive Podcast website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Micro é um site de Podcast totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/micro/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/micro/"><strong>➥ Demonstração ao vivo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Capturas de tela de demonstração
 
 ![Micro Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 ![Micro Mobile Demo](./readme-images/mobile.png "Mobile Demo")
 
-### Prerequisites
+### Contato
 
-Before you begin, ensure you have met the following requirements:
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://twitter.com/IanMelw).
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Licença
 
-### Installing Micro
-
-To install **Micro**, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/micro.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/micro.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Este projeto é **de uso gratuito** e não contém nenhuma licença.
