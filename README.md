@@ -9,7 +9,7 @@
 
   Micro é um site de Podcast totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://ichumbo.github.io/Landing-page-Audio/"><strong>➥ Demonstração ao vivo</strong></a>
+  <a href="https://ichumbo.github.io/Micro-Master/"><strong>➥ Demonstração ao vivo</strong></a>
 
 </div>
 
